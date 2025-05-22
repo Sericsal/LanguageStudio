@@ -28,7 +28,7 @@ Recurso criado com sucesso:
 
 Em seguida, selecionei a opção **Conversão de fala em texto em tempo real** e submeti o seguinte arquivo de áudio:
 
-[Ouvir o áudio](audio/Audio_Valeria_Baptista..mp3)
+[Ouvir o áudio](audio/Audio_Valeria_Baptista.mp3)
 
 Segue o resultado apresentado:
 

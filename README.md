@@ -84,17 +84,23 @@ Escolhi três comentários fictícios para análise:
 
 Resultados:
 
+Texto 1 , Inglês, comentário positivo:
+
 <img src="images/text1_to_tryout.png" alt="text1_to_tryout" width="500"/>
 
 <img src="images/text1_result1.png" alt="text1_result1" width="500"/>
 <img src="images/text1_result2.png" alt="text1_result2" width="500"/>
 <img src="images/text1_result3.png" alt="text1_result3" width="500"/>
 
+Texto 2, Inglês, comentário negativo:
+
 <img src="images/text2_to_tryout.png" alt="text2_to_tryout" width="500"/>
 
 <img src="images/text2_result1.png" alt="text2_result1" width="500"/>
 <img src="images/text2_result2.png" alt="text2_result2" width="500"/>
 <img src="images/text2_result3.png" alt="text2_result3" width="500"/>
+
+Texto 3, Português(BR), comentário meio positivo e meio negativo:
 
 <img src="images/text3_to_tryout.png" alt="text3_to_tryout" width="500"/>
 

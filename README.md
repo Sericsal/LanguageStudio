@@ -66,6 +66,8 @@ No portal Azure, usando outro diretório, entrei no **Language service**:
 
 <img src="images/criar_language_service.png" alt="criar_language_service" width="500"/>
 
+<img src="images/criar_language_service.png" alt="criar_language_service" width="500"/>
+
 <img src="images/criar_language_service2.png" alt="criar_language_service2" width="500"/>
 
 E criei o recurso `idiomasensing`:
